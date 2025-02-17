@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.QuickRAG", "03.QuickRAG"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EDT.QuickRAG.Portal", "EDT.QuickRAG.Portal\EDT.QuickRAG.Portal.csproj", "{0F71DFB7-E257-4A0B-9801-54674B39CB6F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.PaperAssistant", "04.PaperAssistant", "{51649C68-96DB-4B73-A45C-8930D3E53E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDT.PaperAssistant.Portal", "EDT.PaperAssistant.Portal\EDT.PaperAssistant.Portal.csproj", "{C4AB7C0F-EE0D-4F04-BD5E-5D3D6A4D0433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{0F71DFB7-E257-4A0B-9801-54674B39CB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F71DFB7-E257-4A0B-9801-54674B39CB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F71DFB7-E257-4A0B-9801-54674B39CB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AB7C0F-EE0D-4F04-BD5E-5D3D6A4D0433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AB7C0F-EE0D-4F04-BD5E-5D3D6A4D0433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AB7C0F-EE0D-4F04-BD5E-5D3D6A4D0433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AB7C0F-EE0D-4F04-BD5E-5D3D6A4D0433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{3481CDAF-AB5B-4A9C-8D6C-CEC37D356F6C} = {96B0334B-A803-409D-95B8-BB6E665B727F}
 		{A5172EE9-4AAD-469D-A122-5112736A3B1F} = {96B0334B-A803-409D-95B8-BB6E665B727F}
 		{0F71DFB7-E257-4A0B-9801-54674B39CB6F} = {985160C9-197B-42B4-8927-B2697E9F32F8}
+		{C4AB7C0F-EE0D-4F04-BD5E-5D3D6A4D0433} = {51649C68-96DB-4B73-A45C-8930D3E53E12}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {963A895C-0BB4-4BEC-B53D-6B44256D8117}
